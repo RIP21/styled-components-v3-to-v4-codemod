@@ -2,6 +2,8 @@
 
 [![npm version](https://badge.fury.io/js/styled-components-v3-to-v4-codemod.svg)](https://badge.fury.io/js/styled-components-v3-to-v4-codemod)
 
+### This codemod has been adopted by `styled-components`, please use it instead [styled-components-codemods](https://github.com/styled-components/styled-components-codemods)
+
 Codemod to for `styled-components` to migrate from `v3`to `v4`.
 
 In version 4 of `styled-components` the `.extends` API will be removed.
